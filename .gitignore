@@ -16,3 +16,10 @@
 *.exe
 *.out
 *.app
+
+# VS files
+*.opensdf
+*.sdf
+*.suo
+Debug/
+Release/
